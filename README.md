@@ -8,9 +8,12 @@
 
 呃呃这就是二次元吗
 
-#联系我
+## 联系我
+
 KOOK: ヘキソナ #6969
+
 Discord: ヘキソナ #8598
+
 Twitter: [@hexona_ch](https://twitter.com/hexona_ch)
 
 <!---
