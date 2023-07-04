@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 |Date|Type|[Mind](https://www.16personalities.com/articles/mind-introverted-vs-extraverted)|[Energy](https://www.16personalities.com/articles/energy-intuitive-vs-observant)|[Nature](https://www.16personalities.com/articles/nature-thinking-vs-feeling)|[Tactics](https://www.16personalities.com/articles/tactics-judging-vs-prospecting)|[Identity](https://www.16personalities.com/articles/identity-assertive-vs-turbulent)|
 |---|---|---|---|---|---|---|
 | 2022/11/20 | [Turbulent Virtuoso](https://www.16personalities.com/istp-personality) (ISTP-T) | Introverted  87% | Observant 67% | Thinking 66% | Prospecting 64% | Turbulent 75% |
-| 2023/04/04 | [Turbulent Logician](https://www.16personalities.com/istp-personality) (INTP-T) | Introverted 100% | Intuitive 56% | Thinking 55% | Prospecting 65% | Tirbulent 76% |
+| 2023/04/04 | [Turbulent Logician](https://www.16personalities.com/intp-personality) (INTP-T) | Introverted 100% | Intuitive 56% | Thinking 55% | Prospecting 65% | Tirbulent 76% |
+| 2023/07/04 | [Turbulent Logician](https://www.16personalities.com/intp-personality) (INTP-T) | Introverted  98% | Intuitive 65% | Thinking 58% | Prospecting 76% | Tirbulent 75% |
 
 ## 联系我
 
