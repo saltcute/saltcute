@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 我是？四翡斋撒币[白河豚](https://blog.lolicon.ac.cn/anime-watching-diary/)。偶尔[写点没用的代码](https://github.com/Hexona69)。YRDSB GRD 12 在读，别开我盒，我怕。如果你和我在同一个 board，那太酷了。
 
-[Spotify](https://open.spotify.com/playlist/2KbSpdamICsAFTdxEjOgG5) 以及 [Spotify](https://open.spotify.com/playlist/3FUOa8oxaboFuA3ymdJQ85)，全是二次元 Anisong 伴随一点 J-POP。承受能力低的慎点。有点中毒キノシタ最近。爱了。
+[Spotify](https://open.spotify.com/playlist/2KbSpdamICsAFTdxEjOgG5) 以及 [Spotify](https://open.spotify.com/playlist/3FUOa8oxaboFuA3ymdJQ85)，全是 sb 二次元 Anisong 伴随一点 J-POP。承受能力低的慎点。你怎么知道PMR是我老婆？
 
 ### 图个乐看看
 
