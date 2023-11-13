@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 联系我
 
-- KOOK: Hexona#6969
-- Discord: @hexona_ch
-- Twitter: [@hexona_ch](https://twitter.com/hexona_ch)
+- KOOK: saltcute#2333
+- Discord: @saltcutep
+- Twitter: [@saltcutep](https://twitter.com/saltcutep)
