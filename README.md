@@ -25,5 +25,5 @@ You can click the Preview link to take a look at your changes.
 ## 联系我
 
 - KOOK: saltcute#2333
-- Discord: @saltcutep
+- Discord: saltcutep
 - Twitter: [@saltcutep](https://twitter.com/saltcutep)
