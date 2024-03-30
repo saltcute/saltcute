@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 | 2023/04/04 | [Turbulent Logician](https://www.16personalities.com/intp-personality) (INTP-T) | Introverted 100% | Intuitive 56% | Thinking 55% | Prospecting 65% | Turbulent 76% |
 | 2023/07/04 | [Turbulent Logician](https://www.16personalities.com/intp-personality) (INTP-T) | Introverted  98% | Intuitive 65% | Thinking 58% | Prospecting 76% | Turbulent 75% |
 | 2023/10/05 | [Turbulent Virtuoso](https://www.16personalities.com/istp-personality) (ISTP-T) | Introverted  100% | Observant 52% | Thinking 61% | Prospecting 68% | Turbulent 71% |
+| 2024/03/30 | [Turbulent Virtuoso](https://www.16personalities.com/istp-personality) (ISTP-T) | Introverted  97% | Observant 62% | Thinking 69% | Prospecting 85% | Turbulent 81% |
 
 </details>
 
