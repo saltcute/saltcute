@@ -2,7 +2,7 @@
     <img style="height: 200px;" src="https://raw.githubusercontent.com/saltcute/kawaii-logos/main/saltcute/salt-uwu.svg">
 </p>
 
-你好我是撒币[白河豚](https://lolicon.ac.cn/anime-watching-diary/)。偶尔[写点没用的代码](https://github.com/saltcute)。YRDSB GRD 12 在读。如果你和我在同一个 board，那太酷了，但是别开我盒，我怕。Spotify Playlist: [奶油糖](https://open.spotify.com/playlist/370a9oxeV6IFQWSl3RcFrG?si=c62bb883b6654c3b)
+你好我是撒币[白河豚](https://lolicon.ac.cn/anime-watching-diary/)。偶尔[写点没用的代码](https://github.com/saltcute)。<!-- YRDSB GRD 12 在读。如果你和我在同一个 board，那太酷了，但是别开我盒，我怕。-->Spotify Playlist: [奶油糖](https://open.spotify.com/playlist/370a9oxeV6IFQWSl3RcFrG?si=c62bb883b6654c3b)
 
 <details>
   <summary><h3>Just For Fun</h3></summary>
@@ -22,6 +22,7 @@
 
 - KOOK: saltcute#2333
 - Discord: saltcutep
+- Twitter: @saltcutep
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
