@@ -4,7 +4,7 @@
 
 你好我是撒币[白河豚](https://lolicon.ac.cn/anime-watching-diary/)。偶尔[写点没用的代码](https://github.com/saltcute)。<!-- YRDSB GRD 12 在读。如果你和我在同一个 board，那太酷了，但是别开我盒，我怕。-->Spotify Playlist: [奶油糖](https://open.spotify.com/playlist/370a9oxeV6IFQWSl3RcFrG?si=c62bb883b6654c3b)
 
-<details>
+<!--<details>
   <summary><h3>Just For Fun</h3></summary>
 
 | Date       | Type                                                                            | [Mind](https://www.16personalities.com/articles/mind-introverted-vs-extraverted) | [Energy](https://www.16personalities.com/articles/energy-intuitive-vs-observant) | [Nature](https://www.16personalities.com/articles/nature-thinking-vs-feeling) | [Tactics](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) | [Identity](https://www.16personalities.com/articles/identity-assertive-vs-turbulent) |
@@ -17,7 +17,7 @@
 | 2024/06/08 | [Turbulent Virtuoso](https://www.16personalities.com/istp-personality) (ISTP-T) | Introverted 94%                                                                  | Observant 52%                                                                    | Thinking 63%                                                                  | Prospecting 89%                                                                    | Turbulent 83%                                                                        |
 | 2025/04/13 | [Turbulent Virtuoso](https://www.16personalities.com/istp-personality) (ISTP-T) | Introverted 96%                                                                  | Observant 52%                                                                    | Thinking 53%                                                                  | Prospecting 89%                                                                    | Turbulent 90%                                                                        |
 
-</details>
+</details>-->
 
 ## Contact
 
