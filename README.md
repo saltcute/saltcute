@@ -19,14 +19,19 @@ Playlist: [奶油糖](https://open.spotify.com/playlist/370a9oxeV6IFQWSl3RcFrG?s
 
 </details>-->
 
+<!--
+
 ## Contact
 
 - KOOK: saltcute#2333
 - Discord: saltcutep
 - Twitter: @saltcutep
 
+-->
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saltcute&show_icons=true&theme=github_dark_dimmed" />
     </a>
 </p>
+
